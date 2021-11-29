@@ -6,12 +6,12 @@ namespace GoogleKickstart2021
     class RoundFProblemA
     {
         static readonly int larg = 2147483647;
-        //public static void Main(string[] u)
-        //{
-        //    var testCases = Int64.Parse(Console.ReadLine());
-        //    for (int i = 1; i <= testCases; i++)
-        //        Console.WriteLine($"Case #{i}: {FindSumOfDistances(Int32.Parse(Console.ReadLine()), Console.ReadLine())}");
-        //}
+        public static void Mainn(string[] u)
+        {
+            var testCases = Int64.Parse(Console.ReadLine());
+            for (int i = 1; i <= testCases; i++)
+                Console.WriteLine($"Case #{i}: {FindSumOfDistances(Int32.Parse(Console.ReadLine()), Console.ReadLine())}");
+        }
 
         static long FindSumOfDistances(int n, string s)
         {

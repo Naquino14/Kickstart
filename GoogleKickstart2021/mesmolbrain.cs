@@ -1,22 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
+﻿using myBsalls = System.Console;
+using System;
 namespace GoogleKickstart2021
 {
+
     class mesmolbrain
     {
-        static char[] ab = new char[26];
-        //static void Main(string[] args)
-        //{
 
-        //    int t = int.Parse(Console.ReadLine());
-        //    for (int titer = 1; titer <= t; titer++)
-        //    {
-
-
-
-        //    }
-        //}
+        static void Mainn(string[] u) => myBsalls.WriteLine("lole");
     }
 }

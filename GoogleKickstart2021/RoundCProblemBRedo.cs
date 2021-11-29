@@ -5,7 +5,7 @@ namespace GoogleKickstart2021
 {
     class RoundCProblemBRedo
     {
-        public static void Main(string[] u)
+        public static void Mainn(string[] u)
         {
             var testCases = Int32.Parse(Console.ReadLine());
             for (int i = 1; i <= testCases; i++)
