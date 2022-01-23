@@ -7,7 +7,7 @@ namespace GoogleKickstart2021
 {
     public class RoundCProblemA
     {
-        public static void Main()
+        public static void Mainn()
         {
             var tc = i32.Parse(c.ReadLine());
             for (var i = 1; i <= tc; i++)
