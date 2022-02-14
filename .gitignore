@@ -2,4 +2,9 @@
 GoogleKickstart2021/obj/
 GoogleKickstart2021/bin/
 GoogleKickstart2021/properties
+*.json
+*.v1
+.vs/GoogleKickstart/v17/.suo
+.vs/GoogleKickstart/v17/.futdcache.v1
+.vs/GoogleKickstart/project-colors.json
 GoogleKickstart2021/FoobarChallenge1.cs
