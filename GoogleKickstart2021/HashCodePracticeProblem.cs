@@ -9,7 +9,7 @@ namespace GoogleKickstart
     public class HashCodePracticeProblem
     {
         static readonly string inputPath = @"\HC22P i", outputPath = @"\HC22P o"; 
-        public static void Main(string[] args)
+        public static void Mainn(string[] args)
         {
             // data is read thru a file and stdout must be written to a file
 
@@ -38,7 +38,7 @@ namespace GoogleKickstart
                     // if the ingrienient exists, add 1 to the ingredient
                     // if the ingredient doesnt exist, add it to the dictionary
                     int ic = ingredients.Count();
-                    for(int j = 0; j < ic; j++)
+                    for(int j = 0; j < ic; j++) // this isnt checking every line, so when it sees that it contains an ingredient it writes to the wrong spot
                         if (ingredients.ContainsKey(contextLine[i]))
                             if (adding)
                                 ingredients[ingredients.ElementAt(j).Key]++;
