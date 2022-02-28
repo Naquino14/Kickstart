@@ -36,12 +36,8 @@ public class TheCakeIsNotALieCleaned {
                         prevSubstring = substrings.get(i);
                 }
                 if (valid)
-                {
                     result = n;
-                    n++;
-                }
-                else
-                    n++;
+                n++;
             }
         }
     }
