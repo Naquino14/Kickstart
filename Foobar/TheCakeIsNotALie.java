@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-import java.util.List;
 
 // honestly a little disapointed that we were constrained to use java and python
 // oh well ¯\_(ツ)_/¯
