@@ -1,0 +1,15 @@
+D:\CSharp Projects\Kickstart\GoogleKickstart2021\bin\Debug\net6.0\GoogleKickstart.exe
+D:\CSharp Projects\Kickstart\GoogleKickstart2021\bin\Debug\net6.0\GoogleKickstart.deps.json
+D:\CSharp Projects\Kickstart\GoogleKickstart2021\bin\Debug\net6.0\GoogleKickstart.runtimeconfig.json
+D:\CSharp Projects\Kickstart\GoogleKickstart2021\bin\Debug\net6.0\GoogleKickstart.dll
+D:\CSharp Projects\Kickstart\GoogleKickstart2021\bin\Debug\net6.0\ref\GoogleKickstart.dll
+D:\CSharp Projects\Kickstart\GoogleKickstart2021\bin\Debug\net6.0\GoogleKickstart.pdb
+D:\CSharp Projects\Kickstart\GoogleKickstart2021\obj\Debug\net6.0\GoogleKickstart.csproj.AssemblyReference.cache
+D:\CSharp Projects\Kickstart\GoogleKickstart2021\obj\Debug\net6.0\GoogleKickstart.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp Projects\Kickstart\GoogleKickstart2021\obj\Debug\net6.0\GoogleKickstart.AssemblyInfoInputs.cache
+D:\CSharp Projects\Kickstart\GoogleKickstart2021\obj\Debug\net6.0\GoogleKickstart.AssemblyInfo.cs
+D:\CSharp Projects\Kickstart\GoogleKickstart2021\obj\Debug\net6.0\GoogleKickstart.csproj.CoreCompileInputs.cache
+D:\CSharp Projects\Kickstart\GoogleKickstart2021\obj\Debug\net6.0\GoogleKickstart.dll
+D:\CSharp Projects\Kickstart\GoogleKickstart2021\obj\Debug\net6.0\ref\GoogleKickstart.dll
+D:\CSharp Projects\Kickstart\GoogleKickstart2021\obj\Debug\net6.0\GoogleKickstart.pdb
+D:\CSharp Projects\Kickstart\GoogleKickstart2021\obj\Debug\net6.0\GoogleKickstart.genruntimeconfig.cache
