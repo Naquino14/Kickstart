@@ -18,19 +18,19 @@ namespace GoogleKickstart2021
 
         int x; // reward target
 
-        //static void Main(string[] args)
-        //{
-        //    int t = int.Parse(Console.ReadLine());
-        //    // test cases
-        //    for (int titer = 1; titer <= t; titer++)
-        //    {
-        //        // 60 round probablility calculation
-        //        for (int i = 1; i <= 60; i++)
-        //        {
+        static void Mainn(string[] args)
+        {
+            int t = int.Parse(Console.ReadLine());
+            // test cases
+            for (int titer = 1; titer <= t; titer++)
+            {
+                // 60 round probablility calculation
+                for (int i = 1; i <= 60; i++)
+                {
 
-        //        }
-        //    }
+                }
+            }
 
-        //}
+        }
     }
 }

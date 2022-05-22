@@ -6,12 +6,12 @@ namespace GoogleKickstart2021
 {
     class RoundHProblemA
     {
-        //public static void Main(string[] u)
-        //{
-        //    var testCases = Int32.Parse(Console.ReadLine());
-        //    for (var i = 1; i <= testCases; i++)
-        //        Console.WriteLine($"Case #{i}: {FindOps(Console.ReadLine(), Console.ReadLine())}");
-        //}
+        public static void Mainn(string[] u)
+        {
+            var testCases = Int32.Parse(Console.ReadLine());
+            for (var i = 1; i <= testCases; i++)
+                Console.WriteLine($"Case #{i}: {FindOps(Console.ReadLine(), Console.ReadLine())}");
+        }
 
         static long FindOps(string s, string f)
         {
