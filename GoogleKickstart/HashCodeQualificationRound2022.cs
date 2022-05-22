@@ -10,7 +10,7 @@ namespace GoogleKickstart
     {
         static readonly string inputPath = @"\HC22Q i", outputPath = @"\HC22Q i";
 
-        public static void Main(string[] args)
+        public static void Mainn(string[] args)
         {
             var input = File.ReadAllLines(args[0].Contains(".txt") ? $@"{((args[0].Contains(@"C:\") || args[0].Contains(@"D:\")) ? args[0] : @$"{Directory.GetCurrentDirectory()}{inputPath}\{args[0]}")}" : throw new ArgumentException("Invalid Path."));
             ;

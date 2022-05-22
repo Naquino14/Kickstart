@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.0.31912.275
+VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoogleKickstart", "GoogleKickstart2021\GoogleKickstart.csproj", "{8D055184-09A5-4C07-9D00-A32B0C8B4485}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0151C63F-9322-4D43-8478-F5264170B4CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoogleKickstart", "GoogleKickstart\GoogleKickstart.csproj", "{4C9A5FD3-406F-4F5E-A171-ECE27D9ACF0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8D055184-09A5-4C07-9D00-A32B0C8B4485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8D055184-09A5-4C07-9D00-A32B0C8B4485}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8D055184-09A5-4C07-9D00-A32B0C8B4485}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8D055184-09A5-4C07-9D00-A32B0C8B4485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C9A5FD3-406F-4F5E-A171-ECE27D9ACF0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C9A5FD3-406F-4F5E-A171-ECE27D9ACF0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C9A5FD3-406F-4F5E-A171-ECE27D9ACF0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C9A5FD3-406F-4F5E-A171-ECE27D9ACF0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {6C24D9D4-756E-4CA9-B01E-A67DF536BCAD}
+		SolutionGuid = {B3F4C28F-0EE2-41DF-A890-4B1A48931310}
 	EndGlobalSection
 EndGlobal
